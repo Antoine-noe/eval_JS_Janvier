@@ -10,7 +10,7 @@ var saisie = 0;
     }
     else{
         if (saisie === saisie2){
-            document.write(saisie, " et ", saisie2, " sont éguaux.");}
+            document.write(saisie, " et ", saisie2, " sont égaux.");}
         else{
         document.write(saisie, " est plus petit que ", saisie2);
         }
